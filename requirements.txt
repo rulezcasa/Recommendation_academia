@@ -1,0 +1,7 @@
+numpy
+pandas
+pymongo
+bcrypt
+nltk
+scikit-learn
+flask
