@@ -1,3 +1,14 @@
+# About
+
+Aiming to bridge the gap between academic collaboration and networking with the help of a swipe based recommendation algorithm. The model is integrated into a mobile application through which users can seek collaborations with like minded individuals.  
+
+# Directory structure
+- Jupyter
+  - NlP_responses.ipynb (Jupyter notebook file)
+- Flask-app
+  - app.py (API)
+  - module.py (NLP model) 
+
 # Development and tools
 
 ## Tech stack :
@@ -6,7 +17,7 @@ Frontend : Flutter
 
 API : Flask
 
-Backend : Python
+Backend : Python 
 
 Database : MongoDB
 
