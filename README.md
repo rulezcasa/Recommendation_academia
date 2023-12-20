@@ -4,7 +4,7 @@ Aiming to bridge the gap between academic collaboration and networking with the 
 
 # Directory structure
 - Jupyter
-  - NLP_responses.ipynb (Jupyter notebook file)
+  - NLP-responses.ipynb (Jupyter notebook file)
 - Flask-app
   - app.py (API)
   - module.py (NLP model)
