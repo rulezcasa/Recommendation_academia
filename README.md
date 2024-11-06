@@ -55,6 +55,8 @@ The dataset comprises of user profile information collected using survery forms 
 
 Affinity propagation cluster based relabelling was employed to cluster similar profiles based on the similarity scores as on the notebooks. 
 
+![hybrid_cluster](https://github.com/user-attachments/assets/0f276071-8713-440e-a422-ef80e8f3f15b)
+
 
 ## Results
 
