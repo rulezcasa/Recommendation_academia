@@ -1,6 +1,13 @@
 
 # A BERT Based Hybrid Recommendation System For Academic Collaboration
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 ## Overview
 This codebase implements a hybrid recommendation system for profile matching, optimized to overcome limitations in traditional networking methods. This project evaluates three techniques (TF-IDF, BERT and Hybrid) to enhance networking efficiency within academic circles. the hybrid approach was found to be optimal, effectively capturing both usage patterns and contextual relevance for user profiles. A unique dataset is also distributed for further study on this domain.
 
